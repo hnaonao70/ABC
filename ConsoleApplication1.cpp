@@ -6,14 +6,6 @@
 #include <iostream>
 #include <deque>
 
-// ｆｄさｆｄさｆｄさｆｄｄふぁ
-
-#include <chrono>
-#include <cmath>
-#include <algorithm>
-
-using namespace std;
-
 // 定数
 int unnnnnnn = 4;
 const int N = 200;
