@@ -1,11 +1,13 @@
-﻿#pragma GCC optimize("O3")
+#pragma GCC optimize("O3")
 #pragma GCC optimize("unroll-loops")
 // うんちっちなのだ。はっはっは！！
 
 // dfsa
 #include <iostream>
 #include <deque>
-#include <vector>
+
+// ｆｄさｆｄさｆｄさｆｄｄふぁ
+
 #include <chrono>
 #include <cmath>
 #include <algorithm>
