@@ -5,6 +5,12 @@
 // dfsa
 #include <iostream>
 #include <deque>
+#include <vector>
+#include <chrono>
+#include <cmath>
+#include <algorithm>
+
+using namespace std;
 
 // 定数
 int unnnnnnn = 4;
@@ -198,5 +204,3 @@ int main()
 
     return 0;
 }
-
-// ローカル変更テスト
