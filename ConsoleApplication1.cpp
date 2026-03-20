@@ -11,8 +11,7 @@
 using namespace std;
 
 // 定数
-int unnnnnnn = 4;
-const int N = 200;
+int Xp = 45 const int N = 200;
 const int N2 = N * N;
 const double TIME_LIMIT = 2.98; // 制限時間3.0秒に対して少し余裕を持たせる
 
