@@ -1,8 +1,6 @@
-﻿#pragma GCC optimize("O3")
+#pragma GCC optimize("O3")
 #pragma GCC optimize("unroll-loops")
-// うんちっちなのだ。はっはっは！！
 
-// dfsa
 #include <iostream>
 #include <deque>
 #include <vector>
@@ -13,6 +11,8 @@
 using namespace std;
 
 // 定数
+int Xp = 45646;
+vector<int> Z(10);
 int unnnnnnn = 4;
 const int N = 200;
 const int N2 = N * N;
